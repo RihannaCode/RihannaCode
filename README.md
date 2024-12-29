@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rihanna</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
+<img align="right" alt="RihannaCode" width = "400" src ="https://experiencedesign.proftware.com/assets/img/juicy-web-designer-girl-making-landing-page-with-video-color-palette-and-site-blocks.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rihannacode&label=Profile%20views&color=0e75b6&style=flat" alt="rihannacode" /> </p>
 
 - 🌱 I’m currently learning **bootstrap and Tailwindcss**
