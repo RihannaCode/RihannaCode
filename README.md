@@ -1,3 +1,4 @@
+![logo](https://github.com/RihannaCode/RihannaCode/blob/main/main.jpg)
 <h1 align="center">Hi 👋, I'm Rihanna</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
