@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/RihannaCode/RihannaCode/main/logo.png)
+![logo](https://raw.githubusercontent.com/RihannaCode/RihannaCode/main/main_l.png)
 
 <h1 align="center">Hi 👋, I'm Rihanna</h1>
 
