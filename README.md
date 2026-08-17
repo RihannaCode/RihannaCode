@@ -1,6 +1,6 @@
 ![logo](https://github.com/RihannaCode/RihannaCode/blob/main/main.jpg)
 
-<h1 align="center">Hi 👋, I'm Reyhaneh (Rihanna)</h1>
+<h1 align="center">Hi 👋, I'm Rihanna</h1>
 
 <h3 align="center">
 Computer Engineering Student | Python Developer | AI & Cyber Security Learner
