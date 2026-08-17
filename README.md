@@ -34,11 +34,11 @@ Computer Engineering Student | Python Developer | AI & Cyber Security Learner
 
 <p align="left">
 
-<a href="https://linkedin.com/in/reyhane-soltanzade-prs" target="_blank">
+<a href="https://search.eitaa.com/?url=https://www.linkedin.com/in/reyhane-soltanzade-prs?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://instagram.com/rihanna_rsi" target="_blank">
+<a href="https://www.instagram.com/rihanna__tech?igsh=MTJ6M3hmNXVxMHpvcA==" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40"/>
 </a>
 
